@@ -1,4 +1,6 @@
-# show-pods
+# team-apps 
+
+A spring-boot application that lists deployment running in k8s cluster using Kubernetes Java Client
 
 ### Build Pre-requisites
 
